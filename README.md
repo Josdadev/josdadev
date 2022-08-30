@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, making music, and gaming
 - 🌱 I’m currently learning html, css, and javascript
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @joshuatanaka12@gmail.com
+- 📫 How to reach me @joshuatanaka18@gmail.com
 -Joshua Tanaka
 <!---
 Josdadev/Josdadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
